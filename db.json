@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "Name": "manish",
+      "age": "23",
+      "Address": "masaurhi",
+      "Department": "",
+      "Salary": "23435",
+      "marital": "on",
+      "id": 1
+    },
+    {
+      "Name": "karan",
+      "age": "23",
+      "Address": "masaruhi",
+      "Department": "science",
+      "Salary": "3454",
+      "marital": "on",
+      "id": 2
+    },
+    {
+      "Name": "raja",
+      "age": "22",
+      "Address": "patna",
+      "Department": "",
+      "Salary": "567576",
+      "marital": "on",
+      "id": 3
+    },
+    {
+      "Name": "kfgg",
+      "age": "34",
+      "Address": "fdg",
+      "Department": "sports",
+      "Salary": "4545",
+      "marital": "on",
+      "id": 4
+    },
+    {
+      "Name": "radhika",
+      "age": "234",
+      "Address": "masauhi",
+      "Department": "arts",
+      "Salary": "3435",
+      "marital": "on",
+      "id": 5
+    }
+  ]
+}
